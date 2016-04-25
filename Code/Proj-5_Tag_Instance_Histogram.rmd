@@ -1,0 +1,18 @@
+```{r}
+
+getwd()
+setwd('D:/Users/Kristofer/Desktop/Data/P3')
+
+install.packages('ggplot2')
+library(ggplot2)
+
+attr <- read.csv('attributes.csv')
+
+ggplot(aes(x = attr$TYPE, y = attr$COUNT), data = attr) +
+  geom_boxplot() +
+  scale_y_log10(breaks=c(1, 10, 100,1000,10000)) +
+  xlab('Entry Types') +
+  ylab('Instances per Tag Key')
+
+```
+

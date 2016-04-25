@@ -1,0 +1,10 @@
+
+Link to Dataset:
+	https://s3.amazonaws.com/metro-extracts.mapzen.com/singapore.osm.bz2
+	
+Description of data:
+	This dataset includes the full island nation of Singapore as well as neighboring areas in Malaysia and surrounding Indonesian islands.
+
+Reason for using this data:
+
+	I chose this data as I've lived in Singapore for some time and many of the real-world locations referenced in the data were known to me.  This would help me to understand how the data related to these real-world locations.  Additionally, Singapore is a country with four official languages.  As such, there would likely be some interesting issues related to character sets and abbreviation standards.

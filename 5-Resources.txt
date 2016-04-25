@@ -1,0 +1,7 @@
+Links
+	OSM XML Structure:	http://wiki.openstreetmap.org/wiki/OSM_XML
+	Python Reference:	https://www.python.org/ (Documentation)
+		19.7. xml.etree.ElementTree — The ElementTree XML API
+		5. Data Structures
+	StackOverflow:		http://stackoverflow.com/
+		Python assist
