@@ -4,4 +4,4 @@ Links
 		19.7. xml.etree.ElementTree — The ElementTree XML API
 		5. Data Structures
 	StackOverflow:		http://stackoverflow.com/
-		Python assist
+		Python assist and help
